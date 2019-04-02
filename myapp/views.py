@@ -7,3 +7,9 @@ def index(request):
 def store(request):
     return render_to_response('store.html')
 
+def about(request):
+    return render_to_response('about.html')
+
+def products(request):
+    return render_to_response('products.html')
+
