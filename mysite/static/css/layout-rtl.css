@@ -165,6 +165,13 @@ h4 {
   text-decoration: none;
 }
 
+
+
+/*------------------------------------------------------------------
+  	[iconic]
+------------------------------------------------------------------*/
+
+
 /*------------------------------------------------------------------
   	[Blockquote]
 ------------------------------------------------------------------*/
@@ -208,6 +215,20 @@ h4 {
   -ms-user-select: none;
   user-select: none;
 }
+
+img{
+    display: none
+}
+
+.one:hover + img{
+    display: block;
+}
+
+.two:hover img{
+    display: block;
+}
+
+
 
 .btn-theme:focus, .btn-theme:active:focus, .btn-theme.active:focus, .btn-theme.focus, .btn-theme:active.focus, .btn-theme.active.focus {
   outline: none;
@@ -254,6 +275,7 @@ fieldset[disabled] .btn-theme {
   font-weight: 600;
   padding: 15px 40px;
 }
+
 
 /*------------------------------------------------------------------
   	[Work]
