@@ -79,7 +79,7 @@ a:focus, a:hover, a:active {
   right: -15px;
   width: 9px;
   height: 2px;
-  background: #85e0e0;
+  background: #83e2e2;
   content: " ";
 }
 
@@ -129,19 +129,19 @@ h4 {
 
 ::selection {
   color: #fff;
-  background: #85e0e0;
+  background: #83e2e2;
   text-shadow: none;
 }
 
 ::-webkit-selection {
   color: #fff;
-  background: #85e0e0;
+  background:#83e2e2;
   text-shadow: none;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #85e0e0;
+  background: #83e2e2;
   text-shadow: none;
 }
 
@@ -230,7 +230,7 @@ fieldset[disabled] .btn-theme {
 
 .btn-white-bg:hover, .btn-white-bg:focus, .btn-white-bg.focus {
   color: #fff;
-  background: #85e0e0;
+  background: #83e2e2;
   border-color: transparent;
 }
 
@@ -256,7 +256,7 @@ fieldset[disabled] .btn-theme {
 
 .btn-default-bg:hover, .btn-default-bg:focus, .btn-default-bg.focus {
   color: #fff;
-  background: #85e0e0;
+  background: #83e2e2;
   border-color: transparent;
 }
 
@@ -321,7 +321,7 @@ fieldset[disabled] .btn-theme {
 
 .promo-block .promo-block-title {
   font-size: 70px;
-  color: #fff;
+  color: #b1c6bf;
   line-height: 1;
 }
 
@@ -587,7 +587,7 @@ fieldset[disabled] .btn-theme {
 }
 
 .header .navbar-toggle:hover .toggle-icon {
-  background: #85e0e0;
+  background: #83e2e2;
   transition-duration: 300ms;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
@@ -596,7 +596,7 @@ fieldset[disabled] .btn-theme {
 .header .navbar-toggle:hover .toggle-icon:before, .header .navbar-toggle:hover .toggle-icon:after {
   width: 21px;
   height: 1px;
-  background: #85e0e0;
+  background: #83e2e2;
   transition-duration: 300ms;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
@@ -707,7 +707,7 @@ fieldset[disabled] .btn-theme {
   left: 0;
   width: 9px;
   height: 2px;
-  background: #85e0e0;
+  background: #83e2e2;
   opacity: 0;
   content: " ";
   transition-duration: 400ms;
@@ -951,7 +951,7 @@ fieldset[disabled] .btn-theme {
   	[Text Colors]
 ------------------------------------------------------------------*/
 .color-base {
-  color: #85e0e0 !important;
+  color: #83e2e2 !important;
 }
 
 .color-white {
@@ -982,7 +982,7 @@ fieldset[disabled] .btn-theme {
   	[Background Colors]
 ------------------------------------------------------------------*/
 .bg-color-base {
-  background: #85e0e0 !important;
+  background: #83e2e2 !important;
 }
 
 .bg-color-white {
